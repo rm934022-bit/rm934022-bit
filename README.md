@@ -58,6 +58,8 @@ Currently focused on **backend development, AI-powered applications, software en
 
 [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=RajaMani_P&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
 
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
